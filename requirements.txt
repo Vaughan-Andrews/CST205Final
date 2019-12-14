@@ -1,0 +1,19 @@
+##########SoftwareDependencies###########
+-Pyqt(GUI Dependencies)
+-Pil(Used to display images while testing the net)
+-CV2(Used to encode images into numpy arrays for processing)
+-Numpy
+-SkLearn(for utils around training the net)
+-MatplotLib(For data visualization)
+-Pandas(data manipulation)
+-TensorFlow(Used to create the compuational graph of a neural network)
+-Python 3.7
+
+
+
+###########HardWare Dependencies#########
+-Quad-core cpu with 4.3 ghz or higher core count with lower ghz for loading a
+graphics card
+- 32gb of system ram for caching images
+-Minimum of a Nvidia gtx970 or equivalent card with 8gb of dedicated vRam
+
