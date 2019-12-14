@@ -8,7 +8,7 @@
 -Pandas(data manipulation)
 -TensorFlow(Used to create the compuational graph of a neural network)
 -Python 3.7
-
+-jupyter notebooks
 
 
 ###########HardWare Dependencies#########
