@@ -1,0 +1,9 @@
+Documentation used from
+-Tensorflow
+-CV2
+-Pil
+-Pyqt
+-Numpy
+-SkLearn
+-Pandas
+
